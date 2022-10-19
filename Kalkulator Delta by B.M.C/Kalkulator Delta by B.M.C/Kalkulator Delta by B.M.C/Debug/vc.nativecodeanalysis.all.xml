@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?><DEFECTS><DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\barto\Desktop\Visual Studio\Kalkulator Delta by B.M.C\Kalkulator Delta by B.M.C\Kalkulator Delta by B.M.C\</FILEPATH>
+      <FILENAME>Kalkulator Delta by B.M.C.cpp</FILENAME>
+      <LINE>31</LINE>
+      <COLUMN>46</COLUMN>
+    </SFA>
+    <DEFECTCODE>26451</DEFECTCODE>
+    <DESCRIPTION>Przepełnienie arytmetyczne: użycie operatora „*” dla wartości bajtowej 4, a następnie rzutowanie wyniku na wartość bajtową 8. Rzutuj wartość na szerszy typ przed wywołaniem operatora „*” w celu uniknięcia przepełnienia (io.2).</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>7</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\barto\Desktop\Visual Studio\Kalkulator Delta by B.M.C\Kalkulator Delta by B.M.C\Kalkulator Delta by B.M.C\</FILEPATH>
+      <FILENAME>Kalkulator Delta by B.M.C.cpp</FILENAME>
+      <LINE>32</LINE>
+      <COLUMN>46</COLUMN>
+    </SFA>
+    <DEFECTCODE>26451</DEFECTCODE>
+    <DESCRIPTION>Przepełnienie arytmetyczne: użycie operatora „*” dla wartości bajtowej 4, a następnie rzutowanie wyniku na wartość bajtową 8. Rzutuj wartość na szerszy typ przed wywołaniem operatora „*” w celu uniknięcia przepełnienia (io.2).</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>7</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT></DEFECTS>
